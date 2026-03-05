@@ -11,7 +11,7 @@
 [![ClawdHub](https://img.shields.io/badge/ClawdHub-Install-purple)](https://clawdhub.com/skills/gingiris-launch)
 [![Languages](https://img.shields.io/badge/Languages-4-green)](#-multilingual-support)
 
-**[English](references/en/README.md) | [中文](SKILL.md) | [日本語](references/ja/README.md) | [한국어](references/ko/README.md)**
+**[English](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/README.md) | [中文](https://github.com/Gingiris/gingiris-launch/blob/main/SKILL.md) | [日本語](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/README.md) | [한국어](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/README.md)**
 
 </div>
 
@@ -57,10 +57,10 @@ git clone https://github.com/Gingiris/gingiris-launch.git ~/.openclaw/skills/gin
 
 | Language | Entry Point |
 |:---|:---|
-| 🇨🇳 中文 | [SKILL.md](SKILL.md) |
-| 🇺🇸 English | [references/en/README.md](references/en/README.md) |
-| 🇯🇵 日本語 | [references/ja/README.md](references/ja/README.md) |
-| 🇰🇷 한국어 | [references/ko/README.md](references/ko/README.md) |
+| 🇨🇳 中文 | [SKILL.md](https://github.com/Gingiris/gingiris-launch/blob/main/SKILL.md) |
+| 🇺🇸 English | [references/en/README.md](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/README.md) |
+| 🇯🇵 日本語 | [references/ja/README.md](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/README.md) |
+| 🇰🇷 한국어 | [references/ko/README.md](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/README.md) |
 
 ## 📚 Contents
 

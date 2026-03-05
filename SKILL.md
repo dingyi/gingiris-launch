@@ -14,7 +14,7 @@ description: |
 
 # AI 产品全球发布行动指南
 
-> 🌍 **Language / 语言**: [中文](#中文版) | [English](references/en/README.md) | [日本語](references/ja/README.md) | [한국어](references/ko/README.md)
+> 🌍 **Language / 语言**: [中文](#中文版) | [English](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/README.md) | [日本語](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/README.md) | [한국어](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/README.md)
 
 ---
 
