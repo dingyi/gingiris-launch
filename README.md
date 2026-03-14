@@ -34,14 +34,14 @@ If you find this playbook useful, a GitHub Star ⭐ helps others discover it!
 
 ## Why This Playbook?
 
-Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://github.com/toeverything/AFFiNE) (60k+ stars). This playbook documents the exact strategies that achieved:
+Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://github.com/toeverything/AFFiNE) (60k+ stars). This playbook documents the exact strategies used at AFFiNE that achieved:
 
-| Metric | Result |
-|--------|--------|
-| 🏆 Product Hunt #1 Daily | 30 times |
-| ⭐ GitHub Stars (7 days) | 6,000+ |
-| ⭐ GitHub Stars (18 months) | 33,000+ |
-| 🌍 Countries Reached | 100+ |
+| Metric | Result | Context |
+|--------|--------|---------|
+| 🏆 Product Hunt #1 Daily | 30 times | Achieved at AFFiNE |
+| ⭐ GitHub Stars (7 days) | 6,000+ | Achieved at AFFiNE |
+| ⭐ GitHub Stars (18 months) | 33,000+ | Achieved at AFFiNE |
+| 🌍 Countries Reached | 100+ | Achieved at AFFiNE |
 
 ---
 
